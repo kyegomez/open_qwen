@@ -1,4 +1,4 @@
-# open_qwen_3_5
+# open_qwen
 
 This repository provides a non-official, research-oriented implementation of Qwen 3.5. At the time of writing, no peer-reviewed paper or official reference implementation appears to be publicly available. The architecture and hyperparameter details were inferred from publicly available model metadata, and the codebase reflects that specification as closely as possible.
 
